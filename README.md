@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning website development and internet of things
 - 💞️ I’m looking to collaborate on programmer
-- 📫 How to reach me please kindly email me at anggafirmansyah0101@gmail.com
+- 📫 How to reach me
 
 <!---
 anggafirmansyah007/anggafirmansyah007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
